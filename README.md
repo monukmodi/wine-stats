@@ -1,5 +1,8 @@
 # Wine Stats
 
+![image](https://github.com/monukmodi/wine-stats/assets/22971983/1b8c1f56-1ca1-46ea-b222-c2eaa87aba74)
+
+
 ## Installation
 
 1. Clone the repository:
